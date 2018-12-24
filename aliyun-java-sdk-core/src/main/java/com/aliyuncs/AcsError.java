@@ -20,7 +20,7 @@ package com.aliyuncs;
 
 //修改egit1
 //从remote修改egit1
-
+//远程修改,for 冲突1
 import com.aliyuncs.transform.UnmarshallerContext;
 
 public class AcsError extends AcsResponse{
